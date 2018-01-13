@@ -1,0 +1,10 @@
+Hello
+
+This is a trial to create a new text file thorugh AMI Ubuntu.
+I have logged into the Ubuntu AMI using putty.
+
+I am trying to save these changes.
+
+Thank you!
+
+
